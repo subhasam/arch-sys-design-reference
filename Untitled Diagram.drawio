@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
-  <diagram name="Page-1" id="mZbQhfNU-KYauh2qE4AM">
+  <diagram name="Inventory-system" id="mZbQhfNU-KYauh2qE4AM">
     <mxGraphModel dx="2156" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-244" y="-856" width="59" height="34" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Process" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-366" y="-940" width="68" height="34" as="geometry" />
+          <mxGeometry x="-390" y="-940" width="68" height="34" as="geometry" />
         </mxCell>
         <mxCell id="7" value="Process" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-248" y="-940" width="68" height="34" as="geometry" />
@@ -67,6 +67,12 @@
               <mxPoint x="-156" y="-840" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Q2Nk_Bnz0mP5EfRo7dnZ-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1400/0*OTMtM32jJsQQUw9i.png;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-720" width="1024" height="815" as="geometry" />
+        </mxCell>
+        <mxCell id="Q2Nk_Bnz0mP5EfRo7dnZ-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1400/0*2FgNHtNSsouRsJ_R.png;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="160" width="961.46" height="1030" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
